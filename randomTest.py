@@ -1,7 +1,6 @@
 
 import numpy as np
 import sklearn
-from scipy.stats import norm
 from sklearn.datasets import load_breast_cancer
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
