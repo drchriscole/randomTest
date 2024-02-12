@@ -35,5 +35,6 @@ tested and confirmed to give the same results.
     [x] macOS (Arm)
     [] macOS (intel)
     [x] linux (Arm)
-    [] linux (intel)
+    [x] linux (intel)
+    [x] linux (Windows Subsystem for Linux)
     [] Windows (intel)
